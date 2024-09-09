@@ -5,8 +5,9 @@ This resource is designed to create an event when you run the /purge on command.
 ## HOW TO INSTALL
 
 1. Drag the files to your fivem server's files.
-2. Go to Server.cfg and do "ensure [Purge-System]"
-3. Restart your server and join up!
+2. Go to Server.cfg and do "ensure [Purge-System]".
+3. Install ox_lib & Interact Sound into your fivem server.
+4. Restart your server and join up!
 
 ## Discord
 For other questions open a ticket in discord.gg/dogedev
